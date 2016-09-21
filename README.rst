@@ -3,6 +3,8 @@ toga-qt
 
 A Qt backend for the `Toga widget toolkit`_.
 
+** Toga requires Python 3 **
+
 **THIS IS A PLACEHOLDER PROJECT**
 
 At present, it has no functionality - it exists purely to reserve the PyPI namespace.
@@ -29,7 +31,7 @@ If you experience problems with this backend, `log them on GitHub`_. If you
 want to contribute code, please `fork the code`_ and `submit a pull request`_.
 
 .. _Toga widget toolkit: http://pybee.org/toga
-.. _the core Toga library: https://github.com/pybee/toga
+.. _the core Toga library: https://github.com/pybee/toga-core
 .. _Toga project on Github: https://github.com/pybee/toga
 .. _BeeWare suite: http://pybee.org
 .. _@pybeeware on Twitter: https://twitter.com/pybeeware
